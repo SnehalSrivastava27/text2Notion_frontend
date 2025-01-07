@@ -56,7 +56,7 @@ export const Footer=()=>{
     
         <div className="mt-16 pt-8 border-t border-gray-800">
           <p className="text-gray-400 text-sm">
-            © 2024 textToNotion - P.IVA 03917380127
+            © 2025 TextToNotion - Snehal Srivastava
           </p>
         </div>
       </div>
