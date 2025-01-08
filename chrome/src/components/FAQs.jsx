@@ -31,7 +31,7 @@ return(
       </AccordionItem>
 
       <AccordionItem value="item-3">
-        <AccordionTrigger>Who are the main customers</AccordionTrigger>
+        <AccordionTrigger>Who are the main Users</AccordionTrigger>
         <AccordionContent>
             The tool is open to use for everyone however it is more relevant to Students, Researchers and Employees which has lot of research work.
         </AccordionContent>
@@ -40,5 +40,6 @@ return(
   </div>
 </div>
 </section>
+
 )
 }

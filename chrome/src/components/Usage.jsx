@@ -25,19 +25,19 @@ export const Usage=()=>{
           number: "1",
           title: "Highlight Text",
           description: "Select any text you want to save while browsing",
-          icon: <motion.div className="w-12 h-12 text-blue-500"><Pencil className="w-full h-full" /></motion.div>
+          icon: <motion.div className="w-12 h-12 text-white"><Pencil className="w-full h-full" /></motion.div>
         },
         {
           number: "2",
           title: "Click Extension",
           description: "Click the Text to Notion icon in your Context Menu",
-          icon: <motion.div className="w-12 h-12 text-blue-500"><FileText className="w-full h-full" /></motion.div>
+          icon: <motion.div className="w-12 h-12 text-white"><FileText className="w-full h-full" /></motion.div>
         },
         {
           number: "3",
           title: "Done!",
           description: "Text is automatically saved to your Notion workspace",
-          icon: <motion.div className="w-12 h-12 text-blue-500"><CheckCircle className="w-full h-full" /></motion.div>
+          icon: <motion.div className="w-12 h-12 text-white"><CheckCircle className="w-full h-full" /></motion.div>
         }
       ].map((step, index) => (
         <motion.div
@@ -48,7 +48,7 @@ export const Usage=()=>{
           className="relative bg-zinc-900 rounded-xl p-8 text-center"
         >
           <div className="absolute -top-6 left-1/2 -translate-x-1/2">
-            <div className="w-12 h-12 bg-blue-600 rounded-full flex items-center justify-center text-xl font-bold">
+            <div className="w-12 h-12 bg-white  text-black rounded-full flex items-center justify-center text-xl font-bold">
               {step.number}
             </div>
           </div>

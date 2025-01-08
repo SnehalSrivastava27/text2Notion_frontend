@@ -8,7 +8,7 @@ import { FAQ } from "./components/FAQs";
 
 export default function App() {
   return (
-    <BrowserRouter>
+  <BrowserRouter>
   <Fragment>
     <Navbar></Navbar>
     <Hero></Hero>

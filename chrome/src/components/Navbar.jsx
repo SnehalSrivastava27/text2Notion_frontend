@@ -1,4 +1,4 @@
-import  Logo from '../assets/react.svg'
+import  Logo from '../assets/Text2Notion.png'
 import {ArrowRight} from 'lucide-react'
 import { Button } from './ui/button'
 export const Navbar=()=>
@@ -6,7 +6,7 @@ export const Navbar=()=>
     return(
         <div className="flex items-center justify-between mt-2 max-w-7xl">
             <div className='flex items-center text-xl font-semibold'>
-                <img src={Logo}></img>TextToNotion
+                <img src={Logo} className='w-15 h-12'></img>TextToNotion
             </div>
             <div className='flex items-center gap-8 mr-1'>
                 <a className='text-gray-600 hover:text-gray-900 cursor-pointer'>About us</a>
