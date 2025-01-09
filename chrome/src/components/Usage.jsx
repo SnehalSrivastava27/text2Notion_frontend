@@ -66,7 +66,7 @@ export const Usage=()=>{
       className="flex justify-center"
     >
       <Button size="lg" asChild>
-        <a href="/try-now" className="text-lg px-8">
+        <a href="https://chromewebstore.google.com/detail/text-to-notion/gbbfjpcgipipdknhhdhaigjbjlkkaomb" className="text-lg px-8">
           Start Saving Time Now
           <ArrowRight className="ml-2 w-5 h-5" />
         </a>

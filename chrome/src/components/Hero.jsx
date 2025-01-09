@@ -63,7 +63,7 @@ export const Hero = () => {
             src={Video}
             type="video/mp4"
             muted
-            autoplay
+            autoPlay
             playsInline
             controls
             loop

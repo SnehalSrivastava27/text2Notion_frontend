@@ -12,7 +12,7 @@ export const Navbar=()=>
                 <a className='text-gray-600 hover:text-gray-900 cursor-pointer'>About us</a>
                 <a className='text-gray-600 hover:text-gray-900 cursor-pointer'>FAQs</a>
                 <Button asChild>
-             <a href="/try-now" className="flex items-center ">
+             <a href="https://chromewebstore.google.com/detail/text-to-notion/gbbfjpcgipipdknhhdhaigjbjlkkaomb" className="flex items-center ">
                Try Now
                <ArrowRight className="w-4 h-4" />
              </a>
