@@ -1,4 +1,4 @@
-import { motion } from "motion/react"
+import { motion } from "framer-motion"
 import {ArrowRight} from 'lucide-react'
 import { Pencil } from "lucide-react"
 import { CheckCircle } from "lucide-react"

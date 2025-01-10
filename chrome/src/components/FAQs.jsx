@@ -1,5 +1,5 @@
 import { Accordion,AccordionContent,AccordionTrigger,AccordionItem } from "./ui/accordion"
-import { motion } from "motion/react"
+import { motion } from "framer-motion"
 export const FAQ=()=>{
 return(
 <section id="faq" className="bg-white py-24">
